@@ -1,0 +1,14 @@
+Nesta aula do dia 02/05/2023, estamos aprendendo:
+
+GitHub
+Criar um repositório local
+Criar um repositório remoto no GitHub
+Conectar um repositório local com o repositório remoto
+
+Atividade:
+- Criar repositório local do git no PC de nome projeto_colaborativo
+- criar um repositório remoto no Github de mesmo nome
+- criar um arquivo de texto no repositório local do PC 
+- fazer todo o processo de commit
+- conectar o repositório local com o repositório remoto
+- e subir o commit feito no repositório local do git para o repositório do github
